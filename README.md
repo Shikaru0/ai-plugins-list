@@ -13,3 +13,4 @@ Plugin | Feature | Support | License
 Plugin | Feature | Support
 --- | --- | --- |
 https://opencode.ai/docs/ecosystem#plugins | List of some opencode supported plugins | Opencode
+https://github.com/awesome-opencode/awesome-opencode | A curated list of plugins, themes, agents, and resources.| Opencode
