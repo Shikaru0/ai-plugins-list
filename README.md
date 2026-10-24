@@ -46,3 +46,4 @@ https://github.com/openai/plugins | Official OpenAI collection of Codex plugin e
 https://github.com/hashgraph-online/awesome-codex-plugins | Curated directory of official and community Codex plugins with install instructions. | Codex
 https://github.com/hesreallyhim/awesome-claude-code | A hand-picked collection of Claude Code resources: plugins, skills, agents, and developer tooling. | Claude Code
 https://github.com/RoggeOhta/awesome-codex-cli | Curated list of 150+ tools, skills, subagents, and plugins for OpenAI Codex CLI. | Codex
+https://github.com/NVIDIA/skills | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. | Claude Code, Codex & more
