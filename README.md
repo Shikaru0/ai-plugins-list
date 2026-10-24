@@ -1,6 +1,14 @@
 # ai-plugins-list
 A curated list of plugins for AI agents.
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/Shikaru0/ai-plugins-list)
+[![Plugins](https://img.shields.io/badge/plugins-30+-blue?style=flat-square)](#list)
+[![Last Update](https://img.shields.io/github/last-commit/Shikaru0/ai-plugins-list?label=Last%20update&style=flat-square)](https://github.com/Shikaru0/ai-plugins-list/commits/main)
+[![License](https://img.shields.io/github/license/Shikaru0/ai-plugins-list?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Shikaru0/ai-plugins-list?style=flat-square&label=★%20Stars)](https://github.com/Shikaru0/ai-plugins-list/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Shikaru0/ai-plugins-list/blob/main/README.md)
+
+
 ## List
 Plugin | Feature | Support | License
 --- | --- | --- | ---
